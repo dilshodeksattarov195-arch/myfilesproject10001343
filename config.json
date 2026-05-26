@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdecrypt",
+        "uuid": 8090232,
+        "checksum": "9u1pf"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
